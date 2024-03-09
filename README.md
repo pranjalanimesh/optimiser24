@@ -1,4 +1,4 @@
-Optimiser 2024 
+# Optimiser 2024 
 
 This was my team's attempt for the solution for Optimiser 2024 organized by Azeotropy Club, IIT Bombay. 
 
